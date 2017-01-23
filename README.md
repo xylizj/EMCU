@@ -1,3 +1,3 @@
 # EMCU
 Porting from SGCU.
-V1.03 Motor run with software simulated speed.
+V1.03 Motor runs with current open loop at software simulated speed.
